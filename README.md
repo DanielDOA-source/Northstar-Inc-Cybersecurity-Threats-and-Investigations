@@ -327,6 +327,3 @@ The key contribution is the application of SQL to connect multiple datasets, mea
 **Project Type:** SQL Data Analytics & Cybersecurity Investigation  
 **Organization:** Northstar Services (Fictional Case Study)  
 **Database:** MySQL  
-**Duration:** 3 Weeks  
-**Project Group:** Group A – Tech Studio Academy
-
